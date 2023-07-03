@@ -8,13 +8,13 @@ int main() {
    double salario, venda, comissao, total;
     char nome;
 
-    printf("");
+    printf(" ");
     scanf("%s", &nome);
 
-    printf("");
+    printf(" ");
     scanf("%lf", &salario);
 
-    printf("");
+    printf(" ");
     scanf("%lf", &venda);
 
     comissao=venda*0.15;
